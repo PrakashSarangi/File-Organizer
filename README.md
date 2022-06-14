@@ -5,7 +5,7 @@ This tool can be used for organising the files and generating tree of a director
 
 ## Authors
 
-- [@RoshanKumarSharma](https://github.com/RoshanKrSharma)
+- [@PrakashSarangi](https://github.com/PrakashSarangi)
 
 
 ## Features
